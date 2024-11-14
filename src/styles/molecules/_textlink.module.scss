@@ -1,0 +1,11 @@
+// src/styles/atoms/_textLink.module.scss
+.textLink {
+    color: #0070f3;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .textLink:hover {
+    text-decoration: underline;
+  }
+  

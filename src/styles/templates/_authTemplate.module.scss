@@ -1,0 +1,9 @@
+// src/styles/templates/_authTemplate.module.scss
+.authTemplate {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: var(--background-gradient); /* Usa el gradiente global aquí */
+  }
+  
